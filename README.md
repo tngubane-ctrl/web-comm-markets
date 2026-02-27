@@ -1,4 +1,5 @@
 # Community Marketplace Web Application
+![Marketplace](screenshots/RegistrationPage.png)
 
 A web-based marketplace platform designed to connect local community members with buyers and sellers.
 
