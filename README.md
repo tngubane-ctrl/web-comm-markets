@@ -27,3 +27,27 @@ This system allows community members to list products and browse items from loca
 Thandokuhle Ngubane & Members
 
 Junior Web Developer
+
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage1.png)
+
+### Register Page
+![Marketplace](screenshots/RegistrationPage.png)
+
+## Login Page
+![Marketplace](screenshots/LoginPage.png)
+
+
+## Marketplace
+![Marketplace](screenshots/ProductList.png)
+
+## Item Cart
+![Marketplace](screenshots/ItemCart.png)
+
+## Payment Page
+![Marketplace](screenshots/PaymentPageCC.png)
+
+## Delivery Tracking
+![Marketplace](screenshots/DeliveryTracking.png)
