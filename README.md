@@ -13,10 +13,9 @@ This system allows community members to list products and browse items from loca
 • Simple and clean UI
 
 ## Technologies Used
-• HTML
-• CSS & C#
-• JavaScript
-• Bootstrap
+     - **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript (ES6+)
+     - **Backend:** C# / ASP.NET Core
+     - **Architecture:** MVC Pattern
 
 ## Installation
 1. Clone the repository
@@ -26,7 +25,6 @@ This system allows community members to list products and browse items from loca
 ## Author
 Thandokuhle Ngubane & Members
 
-Junior Web Developer
 
 ## Screenshots
 
