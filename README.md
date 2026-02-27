@@ -25,4 +25,5 @@ This system allows community members to list products and browse items from loca
 
 ## Author
 Thandokuhle Ngubane & Members
+
 Junior Web Developer
