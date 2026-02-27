@@ -41,7 +41,7 @@ Junior Web Developer
 
 
 ## Marketplace
-![Marketplace](screenshots/ProductList.png)
+![Marketplace](screenshots/ProductsList.png)
 
 ## Item Cart
 ![Marketplace](screenshots/ItemCart.png)
