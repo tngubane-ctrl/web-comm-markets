@@ -24,5 +24,5 @@ This system allows community members to list products and browse items from loca
 3. Run index.html in a browser
 
 ## Author
-Thandokuhle Ngubane  
+Thandokuhle Ngubane & Members
 Junior Web Developer
